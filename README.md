@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisarasandes1122&label=Profile%20views&color=0e75b6&style=flat" alt="kisarasandes1122" /> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Full Stack development and Artificial Intelligence**
 
-- 💬 Ask me about **Java, PHP**
+- 💬 Ask me about **Java, PHP, Backend Development, UI Designing**
 
 - 📫 How to reach me **kisarasandes22@gmail.com**
 
