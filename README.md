@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kisara Sandes</h1>
-<h3 align="center">A passionate Backend Developer / UI UX Designer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer / Backend Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisarasandes1122&label=Profile%20views&color=0e75b6&style=flat" alt="kisarasandes1122" /> </p>
 
